@@ -4,4 +4,20 @@
 [user]
     name = tallis
     email = dongliang.wu@ddhd.cn
-    
+
+[init]
+  defaultBranch = main  # 新仓库会默认创建 `main` 分支
+
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  df = diff
+  lg = log
+  pl = pull
+  ps = push
+
+# 控制颜色显示
+[color]
+    ui = true

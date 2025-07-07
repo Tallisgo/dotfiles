@@ -9,9 +9,24 @@
 * 这些文件通常由程序自动生成或用户手动创建，用于个性化工具的行为。
 
 
+## 部署
+
+```bash
+
+git clone https://github.com/Tallisgo/dotfiles.git
+
+cd dotfiles
+
+bash deploy.sh
+
+```
+
 ## 内容
 
 
-### `.gitconfig`
+###  [`.gitconfig`](./.gitconfig)
 
 
+
+
+### [`.tmux`](./.tmux.conf)
